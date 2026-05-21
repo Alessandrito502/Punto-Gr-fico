@@ -1,0 +1,38 @@
+[
+    {
+        "id": "p1",
+        "titulo": "Diseño de Pizzas",
+        "desc": "Trabajo publicitario y conceptualización de menús y branding enfocado en el sector gastronómico.",
+        "img": "flyer1.png"
+    },
+    {
+        "id": "p2",
+        "titulo": "Convite de Disfraces",
+        "desc": "Entrañas de Occidente - Tradición y cultura plasmadas gráficamente para Rabinal, Baja Verapaz.",
+        "img": "flyer2.png"
+    },
+    {
+        "id": "p3",
+        "titulo": "Elección de Reina",
+        "desc": "Diseño de afiche oficial y material promocional premium para el certamen de Rabinal, Baja Verapaz.",
+        "img": "uploads/portafolio_p3_3107_613765478_805451915884693_4512645876862603798_n.jpg"
+    },
+    {
+        "id": "p4",
+        "titulo": "BIG BAND SHEKINA",
+        "desc": "Identidad visual impactante para la promoción oficial de la gira musical en Francia.",
+        "img": "flyer4.png"
+    },
+    {
+        "id": "p5",
+        "titulo": "Los Pegasos Music Band",
+        "desc": "Diseño de portada y material gráfico publicitario para la familia musical.",
+        "img": "flyer5.png"
+    },
+    {
+        "id": "p6",
+        "titulo": "Día del Diseñador",
+        "desc": "Arte digital conmemorativo institucional con enfoque estético, minimalista y moderno.",
+        "img": "flyer6.png"
+    }
+]
